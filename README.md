@@ -1,14 +1,24 @@
-Overview
-This small JavaScript program prints Hello World and introduces me as a mathematics teacher. I created it to check that I can run JavaScript locally and prepare a documented project for my software portfolio.
+# Overview
 
-Video link: PENDING — add the actual one-minute demonstration URL after uploading the video. The activity permits omitting this public README link if desired; the submission document and class Teams post still need it.
+This JavaScript program prints "Hello World" and introduces me as a mathematics teacher exploring new software development skills.
 
-Development Environment
-The intended environment is Visual Studio Code, Node.js, and Git. Before publishing, I will verify that this describes the tools I actually used.
+I created this program to verify that my local JavaScript development environment works and to practice writing, running, and documenting software for my portfolio.
 
-The program is written in JavaScript. To run it, open a terminal in this folder and enter:
+# Development Environment
+
+I used Visual Studio Code to write the code, Node.js to run the program, and Git and GitHub for version control and publishing. I developed the project on Windows.
+
+The program is written in JavaScript. It uses `console.log()` to display messages in the terminal.
+
+To run the program, open a terminal in the project folder and enter:
+
+```bash
 node hello.js
-Useful Websites
+```
 
-- Node.js documentation
-- Git documentation
+# Useful Websites
+
+- [Node.js Documentation](https://nodejs.org/en/docs/)
+- [JavaScript console.log() Reference](https://developer.mozilla.org/en-US/docs/Web/API/console/log_static)
+- [Git Documentation](https://git-scm.com/doc)
+- [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
